@@ -3,7 +3,7 @@
 Este repositório contém os desafios que estou realizando do site [Frontend Mentor](https://www.frontendmentor.io/profile/emillymoitinho). O objetivo é praticar e aprimorar minhas habilidades em desenvolvimento frontend, resolvendo desafios práticos e aplicando as melhores práticas de HTML e CSS.
 
 ## 💭 Resultados de aprendizagem
--Aprendi a usar o Frontend Mentor para aprimorar minhas habilidades em desenvolvimento frontend.
+- Aprendi a usar o Frontend Mentor para aprimorar minhas habilidades em desenvolvimento frontend.
 - Configurei meu ambiente de desenvolvimento para facilitar a criação de projetos.
 - Adquiri noções básicas de Git e GitHub, incluindo controle de versão e colaboração.
 - Aprendi a interpretar e trabalhar com arquivos de design.
@@ -31,6 +31,15 @@ Link do desafio: [Frontend Mentor](https://www.frontendmentor.io/solutions/card-
 
 ![Imagem](card_htmlcss/img/print.png)
 
+### Desafio - Social Profile
+Site: [Social Profile](https://emillymoitinho.github.io/introduction_FrontendMentor/social_profile/)
+
+Repositório: [Repositório Social Profile](https://github.com/emillymoitinho/introduction_FrontendMentor/tree/main/social_profile)
+
+Link do desafio: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-profile-_OGi4iMFFH)
+
+![Imagem](social_profile/img/screenshot.png)
+
 ### Desafio - Recipe Page
 Site: [Recipe Page](https://emillymoitinho.github.io/introduction_FrontendMentor/pagina_receita/)
 
@@ -38,4 +47,4 @@ Repositório: [Recipe Page](https://github.com/emillymoitinho/introduction_Front
 
 Link do desafio: [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-IsmfRkXhVo)
 
-![Imagem](pagina_receita/design/desktop-design.jpg)
+![Imagem](pagina_receita/assets/images/print.jpeg)
