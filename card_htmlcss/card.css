@@ -1,0 +1,107 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --yellow: #F4D04E;
+    --black: #111111;
+    --gray: #6B6B6B;
+    --white: #ffffff;
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+
+html, body {
+    width: 100vw;
+}
+
+body {
+    background-color: var(--yellow);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+section#card {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 0 1 384px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 8px 10px 0px black;
+    background-color: var(--white);
+}
+
+div#img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+
+div#img img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-size: cover;
+}
+
+div#img > p#mark {
+    background-color: var(--yellow);
+    width: 80px;
+    text-align: center;
+    padding: 6px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+div#img > p {
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+div#conteudo {
+    padding: 0 20px 20px 20px;
+}
+
+div#conteudo h1:hover {
+    color: var(--yellow);
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+div#conteudo p {
+    font-weight: 300;
+    margin-top: 20px;
+    line-height: 1.5rem;
+}
+
+div#profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0 20px 20px 20px;
+}
+
+div#profile img {
+    width: 32px;
+}
+
+div#profile p {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+
