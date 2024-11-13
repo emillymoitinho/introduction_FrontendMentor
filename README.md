@@ -1,6 +1,13 @@
-# Desafios Frontend Mentor
+# Desafio - Getting started on Frontend Mentor
 
-Este repositório contém os desafios que estou realizando do site [Frontend Mentor](https://www.frontendmentor.io/profile/emillymoitinho). O objetivo é praticar e aprimorar minhas habilidades em desenvolvimento frontend, resolvendo desafios práticos e aplicando as melhores práticas de HTML, CSS e JavaScript.
+Este repositório contém os desafios que estou realizando do site [Frontend Mentor](https://www.frontendmentor.io/profile/emillymoitinho). O objetivo é praticar e aprimorar minhas habilidades em desenvolvimento frontend, resolvendo desafios práticos e aplicando as melhores práticas de HTML e CSS.
+
+## 💭 Resultados de aprendizagem
+-Aprendi a usar o Frontend Mentor para aprimorar minhas habilidades em desenvolvimento frontend.
+- Configurei meu ambiente de desenvolvimento para facilitar a criação de projetos.
+- Adquiri noções básicas de Git e GitHub, incluindo controle de versão e colaboração.
+- Aprendi a interpretar e trabalhar com arquivos de design.
+- Concluí meus primeiros projetos, aplicando esses conhecimentos na prática.
 
 ## Desafios
 
