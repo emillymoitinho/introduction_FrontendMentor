@@ -18,7 +18,7 @@ Link do desafio: [Frontend Mentor](https://www.frontendmentor.io/solutions/utili
 ### Desafio - Card HTML & CSS
 Site: [Card HTML & CSS](https://emillymoitinho.github.io/introduction_FrontendMentor/card_htmlcss/)
 
-Repositório: [Repositório Card HTML & CSS](https://github.com/emillymoitinho/introduction_FrontendMentors/tree/main/card_htmlcss)
+Repositório: [Repositório Card HTML & CSS](https://github.com/emillymoitinho/introduction_FrontendMentor/tree/main/card_htmlcss)
 
 Link do desafio: [Frontend Mentor](https://www.frontendmentor.io/solutions/card-html-and-css-GkNGuYovtf)
 
